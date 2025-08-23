@@ -30,10 +30,10 @@ print(get_requirements())
 ## this is the setup function and it is used to set up the package it will take the name of the package, version, author, description, and requirements from requirements.txt
     
 setup(
-    name='networksecurityvk',
+    name='networksecurity',
     version='0.0.1', 
-    author='Vikram Kumar',
-    author_email='vipnce45@gmail.com',
+    author='Priyanka',
+    author_email='mail.connect.pr@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements()
     )  
